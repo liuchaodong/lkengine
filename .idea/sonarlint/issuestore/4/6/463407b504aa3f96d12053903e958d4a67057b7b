@@ -1,0 +1,35 @@
+
+p
+java:S1192L"NDefine a constant instead of duplicating this literal "WF_DocCreated" 3 times.(è‚£ôÿÿÿÿÿ8ÍõÌÛ¶.
+?
+java:S1643‰"Use a StringBuilder instead.(Íè¸õüÿÿÿÿ8äªÎÛ¶.
+t
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 66 to the 15 allowed.(²™§ˆûÿÿÿÿ8£ûÌåµ.
+e
+java:S1192$"HDefine a constant instead of duplicating this literal "xmldata" 6 times.(÷Ó¾¾8£ûÌåµ.
+{
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(“™Õ²ùÿÿÿÿ8äªÎÛ¶.
+X
+java:S1141Ö"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ñĞÛ¶.
+v
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(²¿Å8£ûÌåµ.
+X	java:S125Ğ"<This block of commented-out lines of code should be removed.(ôµö]8äªÎÛ¶.
+k
+java:S1192R"NDefine a constant instead of duplicating this literal "WF_AddName_CN" 3 times.(›¢İ½8ÍõÌÛ¶.
+V
+java:S2864k"4Iterate over the "entrySet" instead of the "keySet".(ˆô¹…ÿÿÿÿÿ8äªÎÛ¶.
+R
+java:S1066’"/Merge this if statement with the enclosing one.(ˆ¦çÖûÿÿÿÿ8—š×·.
+h
+java:S1192O"KDefine a constant instead of duplicating this literal "WF_AddName" 3 times.(ªÙ²¸8ÍõÌÛ¶.
+Y	java:S125é"<This block of commented-out lines of code should be removed.(âïû8·âÑÛ¶.
+Y	java:S125ù"<This block of commented-out lines of code should be removed.(Í˜“8·âÑÛ¶.
+j
+java:S2095Ø"GUse try-with-resources or close this "Statement" in a "finally" clause.(†ö€üÿÿÿÿ8Ïä©õ¶.
+j
+java:S2095Û"GUse try-with-resources or close this "Statement" in a "finally" clause.(éß­šıÿÿÿÿ8ñĞÛ¶.
+s	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•è²Ãıÿÿÿÿ8·âÑÛ¶.
+{
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(€¡¦Úşÿÿÿÿ8ÍõÌÛ¶.
+W
+java:S2864à"4Iterate over the "entrySet" instead of the "keySet".(¯­Ë‰øÿÿÿÿ8ñĞÛ¶.

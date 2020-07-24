@@ -1,0 +1,7 @@
+cn.linkey.orm.dao
+cn.linkey.orm.dao.impl
+cn.linkey.orm.doc
+cn.linkey.orm.doc.impl
+cn.linkey.orm.factory
+cn.linkey.orm.test
+cn.linkey.orm.util

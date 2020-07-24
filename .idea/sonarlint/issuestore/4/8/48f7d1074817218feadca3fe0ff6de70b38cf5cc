@@ -1,0 +1,14 @@
+
+ƒ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ºá£ð
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿ˆ©¼úÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(îÊÀóýÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŒŸ”Äûÿÿÿÿ8¼¢ˆÔ·.
+V	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+e
+java:S1192"JDefine a constant instead of duplicating this literal "classPath" 3 times.(Ÿ¶¤Ýýÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(üÈôà8þ©‡Ô·.
+N
+java:S2589"8Remove this expression which always evaluates to "false"(¯ñÞ

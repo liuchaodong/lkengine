@@ -1,0 +1,22 @@
+
+V	java:S106µ"9Replace this use of System.out or System.err by a logger.(ğùÓ€8¦½Ùæ¶.
+k
+java:S1192N"NDefine a constant instead of duplicating this literal "wf_addname_cn" 3 times.(·Á‚ª8¹ÙÒæ¶.
+{
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(€¡¦Úşÿÿÿÿ8¹ÙÒæ¶.
+V
+java:S2864d"4Iterate over the "entrySet" instead of the "keySet".(ˆô¹…ÿÿÿÿÿ8¹ÙÒæ¶.
+k
+java:S1192H"NDefine a constant instead of duplicating this literal "wf_doccreated" 3 times.(ÌÚ™8¹ÙÒæ¶.
+t
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(²™§ˆûÿÿÿÿ8¹ÙÒæ¶.
+Y	java:S125¤"<This block of commented-out lines of code should be removed.(°ïŞ´8¹ÙÒæ¶.
+^	java:S125È"<This block of commented-out lines of code should be removed.(Çšİúùÿÿÿÿ8¹ÙÒæ¶.
+X	java:S125t"<This block of commented-out lines of code should be removed.(Ù‰šı8¹ÙÒæ¶.
+v
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(²¿Å8¹ÙÒæ¶.
+h
+java:S1192K"KDefine a constant instead of duplicating this literal "wf_addname" 3 times.(©ï½8¹ÙÒæ¶.
+e
+java:S1192"HDefine a constant instead of duplicating this literal "xmldata" 5 times.(÷Ó¾¾8¹ÙÒæ¶.
+s	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•è²Ãıÿÿÿÿ8¹ÙÒæ¶.

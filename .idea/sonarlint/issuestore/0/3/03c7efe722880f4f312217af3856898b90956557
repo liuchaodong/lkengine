@@ -1,0 +1,50 @@
+
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ
+7
+java:S1659ê" Declare "rs" on a separate line.(Ú“­Ö
+J
+java:S37404"/Provide the parametrized type for this generic.(Œ—¼âıÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ÆÕí½
+I
+java:S1874]"3Remove this use of "newInstance"; it is deprecated.(œˆì
+I
+java:S18745"3Remove this use of "newInstance"; it is deprecated.(œˆì
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ğİãöÿÿÿÿÿ
+f	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ£º¢
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ù„úä
+T	java:S106ü"9Replace this use of System.out or System.err by a logger.(€ûÒøÿÿÿÿ
+g
+java:S2259"KA "NullPointerException" could be thrown; "insLinkeyRule" is nullable here.(·†Ìùÿÿÿÿ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(±‹Ïì
+c
+java:S2259ø"@A "NullPointerException" could be thrown; "rs" is nullable here.(òãã şÿÿÿÿ8°®ôı·.
+f
+java:S2674€"JCheck the return value of the "read" call to see how many bytes were read.(¢ñÀ’ûÿÿÿÿ
+>
+java:S1125S")Remove the literal "false" boolean value.(æìÕ
+Z
+java:S1155’">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+Y
+java:S1751ñ"6Remove this "return" statement or make it conditional.(Š¨Åıÿÿÿÿ8°®ôı·.
+‹
+java:S1319‰"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ªÅö¨8òğËı·.
+U
+java:S2589ô"7Remove this expression which always evaluates to "true"(ª„ó„8—×àı·.
+J
+java:S3740\"/Provide the parametrized type for this generic.(Âƒ»Œşÿÿÿÿ
+M
+java:S3740‰"/Provide the parametrized type for this generic.(ªÅö¨8²ŞÌı·.
+h
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(µ£º¢
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(‹ó“â
+9
+java:S1659ê""Declare "conn" on a separate line.(Ú“­Ö
+U
+java:S4719‚"9Replace charset name argument with StandardCharsets.UTF_8(ã©¸üÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(·†Ìùÿÿÿÿ
+h
+java:S2095}"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(«ÄÒûÿÿÿÿ
+f	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ£º¢

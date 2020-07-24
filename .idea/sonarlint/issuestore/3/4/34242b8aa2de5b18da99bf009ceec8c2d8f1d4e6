@@ -1,0 +1,117 @@
+
+\
+java:S4719Ò">Replace charset name argument with StandardCharsets.ISO_8859_1(†âîœ8·Ô¶õ¶.
+Y	java:S125Ó"<This block of commented-out lines of code should be removed.(Â÷â8·Ô¶õ¶.
+w
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŞßÅÃ8·Ô¶õ¶.
+‹
+java:S1319÷"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(Âí´ö8·Ô¶õ¶.
+Y	java:S125Å"<This block of commented-out lines of code should be removed.(·¼«8·Ô¶õ¶.
+L
+java:S3020³".Pass "new String[0]" as argument to "toArray".(Š¦çÜ8·Ô¶õ¶.
+a
+java:S4719ö">Replace charset name argument with StandardCharsets.ISO_8859_1(æÔ–Îüÿÿÿÿ8·Ô¶õ¶.
+|
+java:S3012û"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ç­ç¹ÿÿÿÿÿ8·Ô¶õ¶.
+Y	java:S125ü"<This block of commented-out lines of code should be removed.(€‚àà8·Ô¶õ¶.
+s	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œŒ„ñûÿÿÿÿ8·Ô¶õ¶.
+|
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").(™°â©úÿÿÿÿ8·Ô¶õ¶.
+’
+java:S1319o"pThe type of the "array" object should be an interface such as "List" rather than the implementation "ArrayList".(ûÊÀıøÿÿÿÿ8·Ô¶õ¶.
+R
+java:S2864Ç"4Iterate over the "entrySet" instead of the "keySet".(¾Á«‰8·Ô¶õ¶.
+w
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ‹è8·Ô¶õ¶.
+Y	java:S125—"<This block of commented-out lines of code should be removed.(Â÷â8·Ô¶õ¶.
+R
+java:S2864ğ"4Iterate over the "entrySet" instead of the "keySet".(¾Á«‰8·Ô¶õ¶.
+y
+java:S1488Ù"[Immediately return this expression instead of assigning it to the temporary variable "str".(­Ï÷—8·Ô¶õ¶.
+y
+java:S1488­"[Immediately return this expression instead of assigning it to the temporary variable "str".(×ãÖ½8·Ô¶õ¶.
+w
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ‹è8·Ô¶õ¶.
+Š
+java:S1319Ş"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Êä8·Ô¶õ¶.
+R
+java:S2864Î"4Iterate over the "entrySet" instead of the "keySet".(ŸÂï8·Ô¶õ¶.
+^	java:S125Ñ"<This block of commented-out lines of code should be removed.(ğä™ÿÿÿÿÿ8·Ô¶õ¶.
+^	java:S125‘"<This block of commented-out lines of code should be removed.(ÌÔ§™ûÿÿÿÿ8·Ô¶õ¶.
+‘
+java:S1319‘"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(¿ÜèÅ8·Ô¶õ¶.
+|
+java:S3012•"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ç­ç¹ÿÿÿÿÿ8·Ô¶õ¶.
+s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦’ûºıÿÿÿÿ8·Ô¶õ¶.
+Y	java:S125œ"<This block of commented-out lines of code should be removed.(˜ì®8·Ô¶õ¶.
+^	java:S125¨"<This block of commented-out lines of code should be removed.(ÎöŒŸÿÿÿÿÿ8·Ô¶õ¶.
+^	java:S125ü"<This block of commented-out lines of code should be removed.(…ü¼øıÿÿÿÿ8·Ô¶õ¶.
+
+java:S1319¼"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ã¿ê÷şÿÿÿÿ8·Ô¶õ¶.
+|
+java:S2293ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü‚´äùÿÿÿÿ8·Ô¶õ¶.
+|
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾ìÅÖûÿÿÿÿ8·Ô¶õ¶.
+Y	java:S125î"<This block of commented-out lines of code should be removed.(î‘¦†8·Ô¶õ¶.
+^	java:S125‘"<This block of commented-out lines of code should be removed.(É‰¢£úÿÿÿÿ8·Ô¶õ¶.
+Œ
+java:S1319Á"nThe type of the "params" object should be an interface such as "Map" rather than the implementation "HashMap".(âìîñ8·Ô¶õ¶.
+c	java:S112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(ó˜Æ÷8·Ô¶õ¶.
+
+java:S1319ì"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(ÓœÑŠüÿÿÿÿ8·Ô¶õ¶.
+n
+java:S1192ö"KDefine a constant instead of duplicating this literal "ISO-8859-1" 3 times.(æÔ–Îüÿÿÿÿ8·Ô¶õ¶.
+^	java:S125İ"<This block of commented-out lines of code should be removed.(…ü¼øıÿÿÿÿ8·Ô¶õ¶.
+–
+java:S1319†"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(°û´Èûÿÿÿÿ8·Ô¶õ¶.
+y
+java:S1488¼"[Immediately return this expression instead of assigning it to the temporary variable "str".(­Ï÷—8·Ô¶õ¶.
+y
+java:S1488˜"[Immediately return this expression instead of assigning it to the temporary variable "str".(­Ï÷—8·Ô¶õ¶.
+Œ
+java:S1319¬"nThe type of the "params" object should be an interface such as "Map" rather than the implementation "HashMap".(€˜Òæ8·Ô¶õ¶.
+;
+java:S2119£"Save and re-use this "Random".(¼İÅf8·Ô¶õ¶.
+^	java:S125œ"<This block of commented-out lines of code should be removed.(…ü¼øıÿÿÿÿ8·Ô¶õ¶.
+a
+java:S4719ö">Replace charset name argument with StandardCharsets.ISO_8859_1(æÔ–Îüÿÿÿÿ8·Ô¶õ¶.
+j
+java:S1192"GDefine a constant instead of duplicating this literal "UTF-8" 12 times.( ÂÒ£ûÿÿÿÿ8·Ô¶õ¶.
+R
+java:S2864¢"4Iterate over the "entrySet" instead of the "keySet".(¾Á«‰8·Ô¶õ¶.
+\
+java:S1118 ":Add a private constructor to hide the implicit public one.(ïÅ¼•ıÿÿÿÿ8ˆÎ—æµ.
+\
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8( ÂÒ£ûÿÿÿÿ8·Ô¶õ¶.
+X	java:S125+"<This block of commented-out lines of code should be removed.(âïû8ˆÎ—æµ.
+W
+java:S4719Ò"9Replace charset name argument with StandardCharsets.UTF_8(†âîœ8·Ô¶õ¶.
+R
+java:S2864›"4Iterate over the "entrySet" instead of the "keySet".(÷¤Äò8·Ô¶õ¶.
+C
+java:S2129‘" Remove this "String" constructor(¦’ûºıÿÿÿÿ8·Ô¶õ¶.
+[
+java:S1197•"8Move the array designator from the variable to the type.(İö×÷ÿÿÿÿÿ8·Ô¶õ¶.
+Y	java:S125¤"<This block of commented-out lines of code should be removed.(ÖĞÁ›8·Ô¶õ¶.
+|
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒş•şÿÿÿÿ8·Ô¶õ¶.
+^	java:S125"<This block of commented-out lines of code should be removed.(Ì–Şêşÿÿÿÿ8·Ô¶õ¶.
+^	java:S125Ô"<This block of commented-out lines of code should be removed.(öŸÌ‰ûÿÿÿÿ8·Ô¶õ¶.
+w
+java:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ”†–8·Ô¶õ¶.
+}
+java:S1149¢"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8·Ô¶õ¶.
+W
+java:S4719®"9Replace charset name argument with StandardCharsets.UTF_8(«½™Â8·Ô¶õ¶.
+y
+java:S1488ø"[Immediately return this expression instead of assigning it to the temporary variable "str".(­Ï÷—8·Ô¶õ¶.
+^	java:S125À"<This block of commented-out lines of code should be removed.(…ü¼øıÿÿÿÿ8·Ô¶õ¶.
+y
+java:S1488Ò"[Immediately return this expression instead of assigning it to the temporary variable "str".(×ãÖ½8·Ô¶õ¶.
+y
+java:S1488ú"[Immediately return this expression instead of assigning it to the temporary variable "str".(×ãÖ½8·Ô¶õ¶.
+^	java:S125é"<This block of commented-out lines of code should be removed.(³©ä³øÿÿÿÿ8·Ô¶õ¶.
+R
+java:S2864±"4Iterate over the "entrySet" instead of the "keySet".(ŸÂï8·Ô¶õ¶.
+}
+java:S1149—"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ğÃäõ8·Ô¶õ¶.

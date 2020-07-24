@@ -1,0 +1,13 @@
+
+g	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(ÑõÕ¬ÿÿÿÿÿ8ˆÎ—æµ.
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(ÉÆô„8ˆÎ—æµ.
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(Çø´8ˆÎ—æµ.
+a
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(ıàÑÎ8ˆÎ—æµ.
+T	java:S106a"9Replace this use of System.out or System.err by a logger.(ù™²88ˆÎ—æµ.
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(üå¤êûÿÿÿÿ8ˆÎ—æµ.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(³ÀÀâ8ˆÎ—æµ.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Å®¼Ó8ˆÎ—æµ.
+a
+java:S2147("DCombine this catch with the one at line 38, which has the same body.(ıàÑÎ8Ä‡İâ¶.

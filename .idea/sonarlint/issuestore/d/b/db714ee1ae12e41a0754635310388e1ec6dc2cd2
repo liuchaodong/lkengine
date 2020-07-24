@@ -1,0 +1,13 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(“»åºüÿÿÿÿ8Õ–¢².
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(òƒ8Õ–¢².
+Q
+java:S3740"/Provide the parametrized type for this generic.(ĞØÄïüÿÿÿÿ8Õ–¢².
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(Ğ İØ8Õ–¢².
+Q
+java:S3740"/Provide the parametrized type for this generic.(®º¬ëıÿÿÿÿ8Õ–¢².
+C
+java:S11683"&Return an empty array instead of null.(¥¹ï8Õ–¢².
+o
+java:S2095)"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Û“™Ğüÿÿÿÿ8Õ–¢².

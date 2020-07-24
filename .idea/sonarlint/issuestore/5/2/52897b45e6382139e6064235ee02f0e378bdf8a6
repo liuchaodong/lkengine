@@ -1,0 +1,58 @@
+
+‘
+java:S1319Ÿ"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(ˆÎ¶¦8Ã¨«ä¶.
+‹
+java:S1319¶"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Èş¹á8Ã¨«ä¶.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(”®‚Ş8Ã¨«ä¶.
+‹
+java:S1319Ä"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(ïæÖä8Ã¨«ä¶.
+‘
+java:S1319Î"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(êï“ä8Ã¨«ä¶.
+–
+java:S1319Ö"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(ñ„¾Ãıÿÿÿÿ8Ã¨«ä¶.
+
+java:S1319¢"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(Š¨ßÑÿÿÿÿÿ8Ã¨«ä¶.
+‹
+java:S1319Î"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(¯®ş‹8Ã¨«ä¶.
+‹
+java:S1319¿"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ßÔé¿8Ã¨«ä¶.
+
+java:S1319‹"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(İÆÒõùÿÿÿÿ8Ã¨«ä¶.
+‘
+java:S1319Â"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(¾®ÒÙ8Ã¨«ä¶.
+
+java:S1319»"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(Ğ×±Ãÿÿÿÿÿ8Ã¨«ä¶.
+–
+java:S1319¯"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(¤ÆŞÑüÿÿÿÿ8Ã¨«ä¶.
+‹
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ñœç8Ã¨«ä¶.
+‘
+java:S1319Û"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(˜á 8Ã¨«ä¶.
+‹
+java:S1319“"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(…’™¹8Ã¨«ä¶.
+‘
+java:S1319è"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(­æš˜8Ã¨«ä¶.
+‹
+java:S1319®"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(üÛÉš8Ã¨«ä¶.
+m	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄìöC8Ã¨«ä¶.
+c	java:S112ï"FDefine and throw a dedicated exception instead of using a generic one.(ú¸ì¨8Ã¨«ä¶.
+–
+java:S1319ß"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(šµ¾›ıÿÿÿÿ8Ã¨«ä¶.
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(ÿ¸¿…ùÿÿÿÿ8Ã¨«ä¶.
+‘
+java:S1319§"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(—…ì¨8Ã¨«ä¶.
+c	java:S112å"FDefine and throw a dedicated exception instead of using a generic one.(ä˜Áê8Ã¨«ä¶.
+c	java:S112Ó"FDefine and throw a dedicated exception instead of using a generic one.(ÿÜ¦8Ã¨«ä¶.
+
+java:S1319ô"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Áó§šúÿÿÿÿ8ì¶İ·.
+
+java:S1319š"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(º²¦Ğùÿÿÿÿ8Ã¨«ä¶.
+b	java:S112Ü"FDefine and throw a dedicated exception instead of using a generic one.(±‹Ë,8Ã¨«ä¶.
+–
+java:S1319—"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(İğñùÿÿÿÿ8Ã¨«ä¶.
+‘
+java:S1319¸"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(¶€Ğ¶8Ã¨«ä¶.
+
+java:S1319ˆ"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(İÈ€Äıÿÿÿÿ8Ã¨«ä¶.
+
+java:S1319¦"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ƒÀ§ıÿÿÿÿ8Ã¨«ä¶.

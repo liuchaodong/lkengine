@@ -1,0 +1,32 @@
+
+\
+java:S2259F"AA "NullPointerException" could be thrown; "end" is nullable here.(à¨¾Áûÿÿÿÿ
+D	java:S108·")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ
+^
+java:S2259F"CA "NullPointerException" could be thrown; "begin" is nullable here.(à¨¾Áûÿÿÿÿ
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(Ÿÿ¸Ü
+D
+java:S1905o")Remove this unnecessary cast to "String".(ê¯ˆ‡ûÿÿÿÿ
+E
+java:S1905ß")Remove this unnecessary cast to "String".(ê¯ˆ‡ûÿÿÿÿ
+_
+java:S2184†"HCast one of the operands of this multiplication operation to a "double".(¶õï÷
+_
+java:S2184Š"HCast one of the operands of this multiplication operation to a "double".(Ç¹ÈÑ
+\
+java:S2259/"AA "NullPointerException" could be thrown; "end" is nullable here.(à¨¾Áûÿÿÿÿ
+T	java:S106L"9Replace this use of System.out or System.err by a logger.(§¬¾P8“«Û¶.
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(Î²åşùÿÿÿÿ8‘ßÛ¶.
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(¶¶˜§ùÿÿÿÿ8Şå‘Û¶.
+^
+java:S2259/"CA "NullPointerException" could be thrown; "begin" is nullable here.(à¨¾Áûÿÿÿÿ
+D
+java:S1905y")Remove this unnecessary cast to "String".(ê¯ˆ‡ûÿÿÿÿ
+a
+java:S2259ë"EA "NullPointerException" could be thrown; "endDate" is nullable here.(ÌÑÅıÿÿÿÿ
+E
+java:S1905Õ")Remove this unnecessary cast to "String".(ê¯ˆ‡ûÿÿÿÿ
+_
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(Ô”¶­

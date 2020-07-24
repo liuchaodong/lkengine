@@ -1,0 +1,21 @@
+
+]	java:S1254"<This block of commented-out lines of code should be removed.(ˆ’ª€øÿÿÿÿ8ˆÎ—æµ.
+h
+java:S1192G"KDefine a constant instead of duplicating this literal "WF_AddName" 3 times.(ªÙ²¸8ˆÎ—æµ.
+Y	java:S125®"<This block of commented-out lines of code should be removed.(Í˜“8ˆÎ—æµ.
+e
+java:S1192 "HDefine a constant instead of duplicating this literal "xmldata" 5 times.(÷Ó¾¾8ˆÎ—æµ.
+^	java:S125¤"<This block of commented-out lines of code should be removed.(•‡ôÍøÿÿÿÿ8ˆÎ—æµ.
+v
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(²¿Å8ˆÎ—æµ.
+V
+java:S2864`"4Iterate over the "entrySet" instead of the "keySet".(ˆô¹…ÿÿÿÿÿ8ˆÎ—æµ.
+p
+java:S1192D"NDefine a constant instead of duplicating this literal "WF_DocCreated" 3 times.(è‚£ôÿÿÿÿÿ8ˆÎ—æµ.
+s	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•è²Ãıÿÿÿÿ8ˆÎ—æµ.
+t
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(²™§ˆûÿÿÿÿ8ˆÎ—æµ.
+{
+java:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(€¡¦Úşÿÿÿÿ8ˆÎ—æµ.
+k
+java:S1192J"NDefine a constant instead of duplicating this literal "WF_AddName_CN" 3 times.(›¢İ½8ˆÎ—æµ.

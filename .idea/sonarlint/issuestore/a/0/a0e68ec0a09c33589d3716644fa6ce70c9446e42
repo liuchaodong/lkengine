@@ -1,0 +1,38 @@
+
+q	java:S116"URename this field "WorkDayMin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ’â8ÅöŠÑ¶.
+m
+java:S1104"RMake Status a static final constant or non-public and provide accessors if needed.(íƒ† ıÿÿÿÿ
+m	java:S116"SRename this field "WeekDays" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¡ñ˜úÿÿÿÿ
+o
+java:S1104"TMake WeekDays a static final constant or non-public and provide accessors if needed.(ö¡ñ˜úÿÿÿÿ
+t	java:S116"SRename this field "OverDays" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âá®ùÿÿÿÿ8ÅöŠÑ¶.
+h	java:S116"SRename this field "Holidays" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß£Ì¬
+k	java:S116"QRename this field "Status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íƒ† ıÿÿÿÿ
+j
+java:S1104"TMake Holidays a static final constant or non-public and provide accessors if needed.(ß£Ì¬
+k	java:S116"VRename this field "PMStartTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â’²ì
+o
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 64 to the 15 allowed.(…‹Û³8ÅöŠÑ¶.
+p	java:S116"VRename this field "AMStartTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÂÿûÿÿÿÿ
+n	java:S116"TRename this field "PMEndTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ÃÓøÿÿÿÿ
+s
+java:S1104"VMake WorkDayMin a static final constant or non-public and provide accessors if needed.( ’â8ÅöŠÑ¶.
+p
+java:S1104"UMake PMEndTime a static final constant or non-public and provide accessors if needed.(›ÃÓøÿÿÿÿ
+r
+java:S1104"WMake AMStartTime a static final constant or non-public and provide accessors if needed.(éÂÿûÿÿÿÿ
+p
+java:S1104"UMake AMEndTime a static final constant or non-public and provide accessors if needed.(×ìì½øÿÿÿÿ
+U
+java:S4973."9Use the "equals" method if value comparison was intended.(î—û28ÅöŠÑ¶.
+d
+java:S1126Â"AReplace this if-then-else statement by a single return statement.(‰ˆ¾Øúÿÿÿÿ8”¼‹Ñ¶.
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ8ÅöŠÑ¶.
+m
+java:S1104"WMake PMStartTime a static final constant or non-public and provide accessors if needed.(â’²ì
+v
+java:S1104"TMake OverDays a static final constant or non-public and provide accessors if needed.(âá®ùÿÿÿÿ8ÅöŠÑ¶.
+F
+java:S1125ç"(Remove the literal "true" boolean value.(²îëŒ8”¼‹Ñ¶.
+n	java:S116"TRename this field "AMEndTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ìì½øÿÿÿÿ
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ÙÁò8”¼‹Ñ¶.

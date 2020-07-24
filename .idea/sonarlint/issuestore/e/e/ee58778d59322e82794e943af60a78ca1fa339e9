@@ -1,0 +1,45 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(¡äk8ş×Ø·.
+X	java:S125†"<This block of commented-out lines of code should be removed.(® ÅD8ş×Ø·.
+{
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÜƒ°øÿÿÿÿ8ş×Ø·.
+t
+java:S3776x"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(È Ïäşÿÿÿÿ8ş×Ø·.
+Y	java:S125ı"<This block of commented-out lines of code should be removed.(Ÿöñ§8İæíü·.
+Y	java:S125‹"<This block of commented-out lines of code should be removed.(ÎÇ¥¾8ş×Ø·.
+s	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•è²Ãıÿÿÿÿ8ş×Ø·.
+Q
+java:S1874	"3Remove this use of "newInstance"; it is deprecated.(œˆì8ş×Ø·.
+d
+java:S2147†	"FCombine this catch with the one at line 1154, which has the same body.(ıàÑÎ8ş×Ø·.
+u	java:S127	"XRefactor the code in order to not assign to this loop counter from within the loop body.(šÿÈú8ş×Ø·.
+d
+java:S2147„	"FCombine this catch with the one at line 1154, which has the same body.(¯áè8ş×Ø·.
+Y	java:S125ñ"<This block of commented-out lines of code should be removed.(³¨¹‡8ş×Ø·.
+C
+java:S1659¹"%Declare "fdValue" on a separate line.(«¼±Ï8ş×Ø·.
+Y	java:S125‡"<This block of commented-out lines of code should be removed.(ß€Õ8ş×Ø·.
+Y	java:S125×"<This block of commented-out lines of code should be removed.(®Ã8ş×Ø·.
+R
+java:S3740€	"/Provide the parametrized type for this generic.(·ù–øÿÿÿÿ8ş×Ø·.
+R
+java:S2864°"4Iterate over the "entrySet" instead of the "keySet".(ä¿åµ8ş×Ø·.
+l
+java:S1192"JDefine a constant instead of duplicating this literal "WF_OrUnid" 6 times.(¨üöĞùÿÿÿÿ8ş×Ø·.
+w
+java:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ô–ˆ8ş×Ø·.
+_
+java:S1126¸"AReplace this if-then-else statement by a single return statement.(¦£´ş8ş×Ø·.
+^	java:S125Å"<This block of commented-out lines of code should be removed.(×ô¾ˆÿÿÿÿÿ8ş×Ø·.
+f
+java:S1192€"HDefine a constant instead of duplicating this literal "xmldata" 4 times.(¦òç¢8ş×Ø·.
+^	java:S125ß	"<This block of commented-out lines of code should be removed.(£İŸøÿÿÿÿ8ş×Ø·.
+{
+java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÜƒ°øÿÿÿÿ8ş×Ø·.
+]	java:S125"<This block of commented-out lines of code should be removed.(§Ûşâüÿÿÿÿ8ş×Ø·.
+v
+java:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿ½³8ş×Ø·.
+^	java:S125š"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ş×Ø·.
+[	java:S106Ò	"9Replace this use of System.out or System.err by a logger.(½ÕØüÿÿÿÿ8ş×Ø·.
+h
+java:S11922"FDefine a constant instead of duplicating this literal "\":\"" 4 times.(ªÚ»ƒüÿÿÿÿ8ş×Ø·.

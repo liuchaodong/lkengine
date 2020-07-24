@@ -1,0 +1,14 @@
+
+Œ
+java:S1319i"oThe type of the "mapData" object should be an interface such as "Map" rather than the implementation "HashMap".(„­—8Ç‚ãæ¶.
+‹
+java:S1319Ó"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ÙºÔ¼8Ç‚ãæ¶.
+˜
+java:S1319¶"uThe type of the "tableFdConfig" object should be an interface such as "Map" rather than the implementation "HashMap".(´Ğ†Æøÿÿÿÿ8Ç‚ãæ¶.
+
+java:S1319 "mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ïèØ¹üÿÿÿÿ8Ç‚ãæ¶.
+‹
+java:S1319§"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(‚´«ó8Ç‚ãæ¶.
+
+java:S1319°"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ô¥³‚úÿÿÿÿ8Ç‚ãæ¶.
+X	java:S125E"<This block of commented-out lines of code should be removed.(ÂØÜä8úòéÖ·.

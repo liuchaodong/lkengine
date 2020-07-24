@@ -1,0 +1,8 @@
+
+N
+java:S1117\"8Rename "conn" which hides the field declared at line 15.(ÜÂ§¤
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(ò€èø
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(ô—Ïñ8 œƒÔ·.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(éôª ÿÿÿÿÿ
+T	java:S106h"9Replace this use of System.out or System.err by a logger.(ƒ œA8ÄöƒÔ·.

@@ -1,0 +1,135 @@
+
+u
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(©ÍÓÀøÿÿÿÿ8éÍé×·.
+V	java:S106º"9Replace this use of System.out or System.err by a logger.(å¥éº8éÍé×·.
+w
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å£»Å8éÍé×·.
+V	java:S106á"9Replace this use of System.out or System.err by a logger.(®—´8éÍé×·.
+V	java:S106‘	"9Replace this use of System.out or System.err by a logger.(¿†‹†8éÍé×·.
+|
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó×»ÿøÿÿÿÿ8éÍé×·.
+j
+java:S1192Ê"LDefine a constant instead of duplicating this literal ")æ—¶å‡ºé”™!" 3 times.(Ğ¥ÑÜ8éÍé×·.
+U	java:S106…"9Replace this use of System.out or System.err by a logger.(î„ 68à™˜ı·.
+[	java:S106°
+"9Replace this use of System.out or System.err by a logger.(ÆÀİÒúÿÿÿÿ8éÍé×·.
+U	java:S106•"9Replace this use of System.out or System.err by a logger.(±Î‚U8éÍé×·.
+U	java:S106¸"9Replace this use of System.out or System.err by a logger.(±Î‚U8éÍé×·.
+|
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºúğáÿÿÿÿÿ8éÍé×·.
+\
+java:S4973È
+"9Use the "equals" method if value comparison was intended.( ›Úëûÿÿÿÿ8éÍé×·.
+w
+java:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ’–Á8éÍé×·.
+V	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ğ½Ÿà8éÍé×·.
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(©ı¤¸øÿÿÿÿ8éÍé×·.
+
+java:S1488­"aImmediately return this expression instead of assigning it to the temporary variable "tableName".(æğÍï8éÍé×·.
+d
+java:S1192ì"FDefine a constant instead of duplicating this literal "MSSQL" 7 times.(Œô‹8éÍé×·.
+[	java:S106ê"9Replace this use of System.out or System.err by a logger.(ò•æÙüÿÿÿÿ8éÍé×·.
+e
+java:S2095…"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ì‚À°8éÍé×·.
+V	java:S106õ"9Replace this use of System.out or System.err by a logger.(ŠÇ²Ï8éÍé×·.
+r
+java:S1192Û"ODefine a constant instead of duplicating this literal "select * from " 4 times.(«•êãüÿÿÿÿ8éÍé×·.
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(¶½‡ú8éÍé×·.
+u
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ï¬›ıÿÿÿÿ8éÍé×·.
+i
+java:S1192ò"FDefine a constant instead of duplicating this literal "PGSQL" 5 times.(¤Ùä©ıÿÿÿÿ8éÍé×·.
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(’Ã˜ÿÿÿÿÿ8éÍé×·.
+U	java:S106¢"9Replace this use of System.out or System.err by a logger.(î„ 68éÍé×·.
+~
+java:S1488Ì"[Immediately return this expression instead of assigning it to the temporary variable "sql".(¢™Úéúÿÿÿÿ8éÍé×·.
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(³ÀÀâ8éÍé×·.
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(âœ„8éÍé×·.
+|
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(úûƒ†ıÿÿÿÿ8éÍé×·.
+V	java:S106º"9Replace this use of System.out or System.err by a logger.(ß¯î•8éÍé×·.
+|
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºúğáÿÿÿÿÿ8éÍé×·.
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(Û«ŞÊ8éÍé×·.
+[	java:S106Ï"9Replace this use of System.out or System.err by a logger.(ò•æÙüÿÿÿÿ8éÍé×·.
+€
+java:S1192¸"]Define a constant instead of duplicating this literal ") a where RowNumber between " 4 times.(ËòÃåøÿÿÿÿ8éÍé×·.
+V	java:S106×"9Replace this use of System.out or System.err by a logger.(Û«ŞÊ8éÍé×·.
+V	java:S106ì
+"9Replace this use of System.out or System.err by a logger.(ÑÉ”€8éÍé×·.
+V	java:S106á
+"9Replace this use of System.out or System.err by a logger.(Ü‘©ê8éÍé×·.
+e
+java:S1192é"GDefine a constant instead of duplicating this literal "ORACLE" 6 times.(ÑÍ“û8éÍé×·.
+|
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(è±Ñıÿÿÿÿ8éÍé×·.
+[	java:S106ş"9Replace this use of System.out or System.err by a logger.(ƒæÛÍüÿÿÿÿ8éÍé×·.
+r
+java:S1192´"TDefine a constant instead of duplicating this literal " as RowNumber from " 4 times.(‚¡ı“8éÍé×·.
+V	java:S106Ú"9Replace this use of System.out or System.err by a logger.(Â–‘ö8÷–Áæ¶.
+[	java:S106÷"9Replace this use of System.out or System.err by a logger.(À´„‡øÿÿÿÿ8éÍé×·.
+w
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ëõ¤8éÍé×·.
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(½Çö°8éÍé×·.
+d
+java:S1126‰	"AReplace this if-then-else statement by a single return statement.(òãã şÿÿÿÿ8éÍé×·.
+y
+java:S1488İ"[Immediately return this expression instead of assigning it to the temporary variable "sql".(’­–ò8éÍé×·.
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(ÁİøÔùÿÿÿÿ8éÍé×·.
+[	java:S106‰
+"9Replace this use of System.out or System.err by a logger.(¤İ†ıÿÿÿÿ8éÍé×·.
+M
+java:S1066´
+"/Merge this if statement with the enclosing one.(¨¾âĞ8éÍé×·.
+L
+java:S1905‘")Remove this unnecessary cast to "String".(¿ßê“ÿÿÿÿÿ8éÍé×·.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ãŠõøÿÿÿÿ8éÍé×·.
+d
+java:S1192º"FDefine a constant instead of duplicating this literal " and " 4 times.(¿‹§´8éÍé×·.
+m	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì“áL8éÍé×·.
+X
+java:S1141Ï"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8éÍé×·.
+j
+java:S2095†"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(›É‰¾ÿÿÿÿÿ8÷–Áæ¶.
+V	java:S106ó"9Replace this use of System.out or System.err by a logger.(®ù·İ8éÍé×·.
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(¶ŒÌşÿÿÿÿ8éÍé×·.
+Y	java:S125û"<This block of commented-out lines of code should be removed.(·»8éÍé×·.
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(à¤®Şşÿÿÿÿ8éÍé×·.
+I
+java:S1168"+Return an empty collection instead of null.(¥¹ï8éÍé×·.
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(Ã´óõøÿÿÿÿ8éÍé×·.
+[	java:S106å
+"9Replace this use of System.out or System.err by a logger.(â¢çµÿÿÿÿÿ8éÍé×·.
+d
+java:S1192ï"FDefine a constant instead of duplicating this literal "MYSQL" 5 times.(Êê‘Ñ8éÍé×·.
+[	java:S106Á"9Replace this use of System.out or System.err by a logger.(±ó™øÿÿÿÿ8éÍé×·.
+V	java:S106Ê"9Replace this use of System.out or System.err by a logger.(Ğ¥ÑÜ8éÍé×·.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ü»¿Á8éÍé×·.
+Y	java:S125š"<This block of commented-out lines of code should be removed.(³ÈÔÁ8éÍé×·.
+[	java:S106ã	"9Replace this use of System.out or System.err by a logger.(¡äüÿÿÿÿ8éÍé×·.
+V	java:S106Ş"9Replace this use of System.out or System.err by a logger.(´Ç›ª8éÍé×·.
+D
+java:S1168ã"&Return an empty array instead of null.(¥¹ï8éÍé×·.
+N
+java:S1168ã"+Return an empty collection instead of null.(…ÌÂıÿÿÿÿ8éÍé×·.
+V	java:S106½	"9Replace this use of System.out or System.err by a logger.(¨©ûñ8éÍé×·.
+V	java:S106ò"9Replace this use of System.out or System.err by a logger.(Û¥íò8éÍé×·.
+w
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ëõ¤8éÍé×·.
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(ğ‡Û üÿÿÿÿ8éÍé×·.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(·«Œ8éÍé×·.
+[	java:S106Ó"9Replace this use of System.out or System.err by a logger.(í¤û£ùÿÿÿÿ8éÍé×·.
+[	java:S106ê"9Replace this use of System.out or System.err by a logger.(œ¤ˆÊøÿÿÿÿ8éÍé×·.
+|
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºúğáÿÿÿÿÿ8éÍé×·.
+V	java:S106¢"9Replace this use of System.out or System.err by a logger.(¶õ•ö8éÍé×·.
+V	java:S106Û"9Replace this use of System.out or System.err by a logger.(ÕÂ¥è8éÍé×·.
+m
+java:S2095¼"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(äÂİ¤8éÍé×·.
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(³ş¹üÿÿÿÿ8éÍé×·.
+~
+java:S1488•"[Immediately return this expression instead of assigning it to the temporary variable "doc".(ö½óşÿÿÿÿ8éÍé×·.
+|
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(³öÿêúÿÿÿÿ8éÍé×·.
+e
+java:S1192˜"GDefine a constant instead of duplicating this literal " from " 4 times.(Û­÷ˆ8éÍé×·.

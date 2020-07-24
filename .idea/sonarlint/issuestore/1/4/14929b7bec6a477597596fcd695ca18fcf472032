@@ -1,0 +1,60 @@
+
+b
+java:S1192€"FDefine a constant instead of duplicating this literal "]<br>" 4 times.( èÈÑıÿÿÿÿ
+D
+java:S1121C".Extract the assignment out of this expression.(ãÉ¢Ü
+F
+java:S3740"/Provide the parametrized type for this generic.(ÑÀÕ
+T	java:S106ú"9Replace this use of System.out or System.err by a logger.(¸¬µœşÿÿÿÿ
+K
+java:S3740š"/Provide the parametrized type for this generic.(ŞŸÊíûÿÿÿÿ
+O	java:S106ø"9Replace this use of System.out or System.err by a logger.(¨‚¶œ
+K
+java:S3740Ù"/Provide the parametrized type for this generic.(¶±Ú¥ÿÿÿÿÿ
+F
+java:S3740½"/Provide the parametrized type for this generic.(ö±ƒù
+u
+java:S1149ÿ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÄÍœ
+
+T	java:S106ü"9Replace this use of System.out or System.err by a logger.(±Ë¥åşÿÿÿÿ
+O	java:S106ş"9Replace this use of System.out or System.err by a logger.(ã´å‰
+O	java:S106÷"9Replace this use of System.out or System.err by a logger.(Ş‹¾
+F
+java:S3740©"/Provide the parametrized type for this generic.(à—Ú
+O	java:S106"9Replace this use of System.out or System.err by a logger.(È¡ğ–
+K
+java:S3740ì"/Provide the parametrized type for this generic.(’«ÿ³ûÿÿÿÿ
+F
+java:S3740Ø"/Provide the parametrized type for this generic.(à—Ú
+8
+java:S1118"Hide this public constructor.(ßŞ²üÿÿÿÿ
+F
+java:S3740õ"/Provide the parametrized type for this generic.(«³ùÔ
+J
+java:S1874î"3Remove this use of "newInstance"; it is deprecated.(Ô¯äĞ
+K
+java:S3740ª"/Provide the parametrized type for this generic.(¶±Ú¥ÿÿÿÿÿ
+R	java:S125­"<This block of commented-out lines of code should be removed.(¹›²
+F
+java:S3740‹"/Provide the parametrized type for this generic.(ö±ƒù
+8
+java:S1643ª"Use a StringBuilder instead.(¶±Ú¥ÿÿÿÿÿ
+8
+java:S1643Ù"Use a StringBuilder instead.(¶±Ú¥ÿÿÿÿÿ
+R	java:S125İ"<This block of commented-out lines of code should be removed.(¹›²
+O	java:S106ı"9Replace this use of System.out or System.err by a logger.(¸‡Õû
+O	java:S106ù"9Replace this use of System.out or System.err by a logger.(–ä‡ğ
+K
+java:S3740"/Provide the parametrized type for this generic.(óØÊúÿÿÿÿ
+K
+java:S3740Â"/Provide the parametrized type for this generic.(óØÊúÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßŞ²üÿÿÿÿ
+<
+java:S10754"&Remove this hard-coded path-delimiter.(ª†—ç
+O	java:S106ö"9Replace this use of System.out or System.err by a logger.(ÍóŒ¾
+O	java:S106û"9Replace this use of System.out or System.err by a logger.(Ÿ¡ş
+F
+java:S3740À"/Provide the parametrized type for this generic.(ÑÀÕ
+J
+java:S1874£"3Remove this use of "newInstance"; it is deprecated.(ÍÉ

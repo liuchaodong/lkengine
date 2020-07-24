@@ -1,0 +1,15 @@
+
+•
+java:S1319o"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(ºƒåùıÿÿÿÿ8Àâòæ¶.
+•
+java:S1319v"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(òá÷§şÿÿÿÿ8Àâòæ¶.
+–
+java:S1319"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(—ä‰¢ûÿÿÿÿ8Àâòæ¶.
+U
+java:S11974"8Move the array designator from the variable to the type.(À è×8Àâòæ¶.
+U
+java:S1197+"8Move the array designator from the variable to the type.(Ú¿ÿß8Àâòæ¶.
+‡
+java:S1319"jThe type of the "dc" object should be an interface such as "Set" rather than the implementation "HashSet".(‘—œ§8Àâòæ¶.
+
+java:S1319~"sThe return type of this method should be an interface such as "Set" rather than the implementation "LinkedHashSet".(Ç› Û8Àâòæ¶.
